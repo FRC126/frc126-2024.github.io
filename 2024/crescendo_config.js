@@ -16,7 +16,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024rikin",
+      "defaultValue": "2024necmp",
       "required": "true"
     },
     { "name": "Match Level",
