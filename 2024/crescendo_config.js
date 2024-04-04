@@ -16,7 +16,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024necmp",
+      "defaultValue": "2024necmp1",
       "required": "true"
     },
     { "name": "Match Level",
